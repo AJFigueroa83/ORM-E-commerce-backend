@@ -42,7 +42,7 @@ N/A
 ## Deployment
 
 🚀 Click [here](https://github.com/AJFigueroa83/ORM-E-commerce-backend) to view the repo.  
-🚀 Click [here](N/A) to view the deployed site.
+🚀 Click [here](https://drive.google.com/file/d/1_20Ft6O6EfBYY4IJrnXH_Jzl2k8T2GBU/view) to view the walkthough video.
 
 ## Questions
 
