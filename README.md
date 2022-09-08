@@ -35,9 +35,9 @@ The user will be able to control and manage their inventory when running this pr
 
 All contibutions are welcome! You can find my contact info below and feel free to reach out if you have any questions.
 
-## Tests
+## Mock-Up
 
-N/A
+![ORM E-commerce backend information display](./Develop/giphy.gif)
 
 ## Deployment
 
